@@ -1,1 +1,1 @@
-I am Yarina and I am studying right now
+This file is my final commit and I want to send it to git hub also along with every other file in my commits
